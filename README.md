@@ -21,7 +21,7 @@ Create a component that contains a list of cards with different tags and do a se
     4. Sitecore react client need to be setup using 'jss setup' and connected to instance of sitecore(Connected mode).
 
     5. Create a new project in VS using Helix architecture and make controllers in which use search using Solar index.
- ### Screenshots ###
+ ### Screenshots: ###
  
 ![reactstyle](sam-niv-jss-app/data/media/img/img1.png)
 
